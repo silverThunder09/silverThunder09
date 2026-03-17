@@ -4,4 +4,4 @@
 
 ### Get in Touch
 
-[![velog](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://velog.io/@jeoneungi/posts)
+[![Velog](http://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&link=https://zzsza.github.io/)](https://velog.io/@jeoneungi/posts)
