@@ -9,5 +9,4 @@
 ### Teck Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=silverThunder09&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverThunder09&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=silverThunder09&show_icons=true&theme=tokyonight)
